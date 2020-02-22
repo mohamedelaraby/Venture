@@ -20,16 +20,22 @@
 	<div id="pageContainer" class="pageContainer">
 		<!-- [ Navigation top bar] -->
 		<div id="masterHeadContainer" class="masterHeadContainer">
-	Welcome to venture
+			Venture
 		</div>
 
 		<!-- [ Navigation side bar] -->
 		<div id="sideNavContainer" class="sideNavContainer">
-
+			side nav bar
 		</div>
 
 		<!-- [  Main Section Container ] -->
 		<div id="mainSectionContainer" class="mainSectionContainer">
+
+		#main Section container
+		<!--[  Main Content ]-->
+			<div class="mainContentContainer" id="mainContentContainer">
+				#main Content Container
+			</div>
 		
 		</div>
 	</div>
